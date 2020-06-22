@@ -1,0 +1,1 @@
+A command line script for sending invitations emails automatically.
