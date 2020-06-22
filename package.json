@@ -1,0 +1,26 @@
+{
+  "name": "airtm-invitees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "airtminvitee": "./app.js"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yail Peralta <yaildeveloper@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "csv": "^5.3.2",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.5"
+  }
+}
